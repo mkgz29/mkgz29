@@ -17,7 +17,6 @@
 
 
 ## Contacto
-- Correo: tuemail@ejemplo.com  
-
+ -Instagram: (https://www.instagram.com/mk_gz/)
 - GitHub: (https://github.com/mkgz29)
 
