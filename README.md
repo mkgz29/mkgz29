@@ -1,6 +1,6 @@
 # Miguel Gomez - Desarrollador Web en Formación 💻
 
-¡Hola! Soy Miguel, un apasionado por el desarrollo web con ganas de seguir creciendo y aprendiendo en el mundo del Full Stack Development. 🚀
+¡Hola! Soy Miguel, un apasionado por el desarrollo web con ganas de seguir creciendo y aprendiendo en el mundo del Full Stack Development. 
 
 ## Sobre mí
 - Actualmente estudio **Full Stack Development** en **Rolling Code School**.
@@ -17,6 +17,6 @@
 
 
 ## Contacto
- -Instagram: (https://www.instagram.com/mk_gz/)
+-Instagram: (https://www.instagram.com/mk_gz/)
 - GitHub: (https://github.com/mkgz29)
 
