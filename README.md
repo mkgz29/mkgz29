@@ -17,6 +17,6 @@
 
 
 ## Contacto
--Instagram: (https://www.instagram.com/mk_gz/)
+- Instagram: (https://www.instagram.com/mk_gz/)
 - GitHub: (https://github.com/mkgz29)
 
