@@ -1,4 +1,4 @@
-# Miguel Gomez - Desarrollador Web en Formación 💻
+# Miguel Gomez - Desarrollador Fullstack en Formación 💻
 
 ¡Hola! Soy Miguel, un apasionado por el desarrollo web con ganas de seguir creciendo y aprendiendo en el mundo del Full Stack Development. 
 
