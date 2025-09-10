@@ -9,7 +9,7 @@
 
 
 ## Habilidades
-- **Lenguajes:** HTML, CSS, JavaScript, SQL básico
+- **Lenguajes:** HTML, CSS, SaSS, JavaScript
 - **Frameworks y Librerías:** Bootstrap, React (en progreso)
 - **Herramientas:** Git, GitHub, VS Code, Canva (para diseño y prototipado)
 - **Metodologías:** Responsive Design, Buenas prácticas en desarrollo web
