@@ -19,4 +19,5 @@
 ## Contacto
 - Instagram: (https://www.instagram.com/mk_gz/)
 - GitHub: (https://github.com/mkgz29)
+- Linkedln: (https://www.linkedin.com/in/miguel-gomez-377ab8381/)
 
