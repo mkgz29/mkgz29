@@ -9,8 +9,8 @@
 
 
 ## Habilidades
-- **Lenguajes:** HTML, CSS, SaSS, JavaScript
-- **Frameworks y Librerías:** Bootstrap, React (en progreso)
+- **Lenguajes:** HTML, CSS, SaSS, JavaScript,  Bootstrap
+- **Frameworks y Librerías:**  React (en progreso)
 - **Herramientas:** Git, GitHub, VS Code, Canva (para diseño y prototipado)
 - **Metodologías:** Responsive Design, Buenas prácticas en desarrollo web
 
