@@ -4,7 +4,7 @@
 
 ## Sobre mí
 - Actualmente estudio **Full Stack Development** en **Rolling Code School**.
-- **Desarrollador Web** en **Coder House**.
+- **Desarrollador Web** .
 - Realizando un curso de **JavaScript avanzado** en **Coder House**.
 
 
@@ -18,6 +18,5 @@
 
 ## Contacto
 - Instagram: (https://www.instagram.com/mk_gz/)
-- GitHub: (https://github.com/mkgz29)
 - Linkedln: (https://www.linkedin.com/in/miguel-gomez-377ab8381/)
 
