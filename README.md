@@ -30,7 +30,7 @@ Node.js, Express, REST API development
 MongoDB
 
 ### Herramientas
-Git, GitHub, VS Code
+Git, GitHub
 
 ---
 
