@@ -1,45 +1,48 @@
-<!-- ====================================== -->
-<!-- MIGUEL GOMEZ | DATA ANALYST PORTFOLIO -->
-<!-- ====================================== -->
+<!-- ========================================== -->
+<!-- MIGUEL GOMEZ | DATA ANALYTICS & DEVELOPMENT -->
+<!-- GITSKINS THEME: SATAN                     -->
+<!-- ========================================== -->
+
+<div align="center">
 
 <p align="center">
   <img
-    src="https://www.gitskins.com/api/section/hero?username=mkgz29&theme=aurora"
+    src="https://www.gitskins.com/api/section/hero?username=mkgz29&theme=satan"
     width="100%"
-    alt="Miguel Gomez - Data & Software Portfolio"
+    alt="Miguel Gomez GitHub Profile"
   />
 </p>
 
-<h3 align="center">
-  📊 Data Analyst Junior | Power BI · SQL · Business Intelligence
-</h3>
+<h3>📊 Data Analyst Junior | Power BI · SQL · Business Intelligence</h3>
 
-<p align="center">
+<p>
   Data Analytics & Software Development
 </p>
 
-<p align="center">
-  📍 Tucuman, Argentina
+<p>
+  📍 Tucumán, Argentina
 </p>
 
-<p align="center">
+<p>
   <a href="https://www.linkedin.com/in/miguel-gomez-377ab8381/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-FF4500?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:moge22alternativa@gmail.com">
-    <img src="https://img.shields.io/badge/Email-00897B?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-FF4500?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
+
+</div>
 
 ---
 
-## 👨‍💻 Sobre mí
+## 👨‍💻 About Me
 
 Desarrollador de software con formación finalizada en **Data Analytics — CoderHouse (2026)**.
 
-Trabajo con **Power BI, SQL, DAX y PostgreSQL**, combinando el análisis de datos con experiencia en aplicaciones empresariales.
+Trabajo con **Power BI, SQL, DAX y PostgreSQL**, combinando análisis de datos con experiencia en desarrollo de aplicaciones empresariales.
 
-🎯 **Open to Data Analyst Junior & BI opportunities.**
+🎯 **Open to Data Analyst Junior & Business Intelligence opportunities.**
 
 ---
 
@@ -49,9 +52,9 @@ Trabajo con **Power BI, SQL, DAX y PostgreSQL**, combinando el análisis de dato
 
 <p align="center">
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-FF4500?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logoColor=black"/>
+  <img src="https://img.shields.io/badge/DAX-FF4500?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Power_Query-217346?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
 </p>
@@ -68,27 +71,75 @@ Trabajo con **Power BI, SQL, DAX y PostgreSQL**, combinando el análisis de dato
 
 ---
 
-## 📊 Featured Data Project
+## 🚀 Selected Projects
 
-### ObraTrack — Power BI Dashboard
+<table width="100%">
 
-**Power BI · DAX · Power Query · Data Modeling**
+<tr>
+<td width="50%" valign="top">
 
-Dashboard de análisis físico y financiero de obras, desarrollado como proyecto académico de Data Analytics.
+<h3>📊 ObraTrack | Power BI</h3>
 
-**15 obras simuladas · 19 medidas DAX · 5 tablas · 4 páginas**
+Dashboard de análisis físico y financiero de obras.
 
-📌 Portfolio público en preparación.
+<b>Power BI · DAX · Power Query</b>
 
----
+<p>
+<sub>Proyecto académico · Portfolio público en preparación</sub>
+</p>
 
-## 🏗️ Business Software
+</td>
 
-**ObraTrack360:** aplicación empresarial de gestión de obras con PostgreSQL, SQL y Supabase. Proyecto colaborativo con cliente piloto.
+<td width="50%" valign="top">
 
-**Rehabex:** e-commerce desarrollado para un cliente real.
+<h3>🏗️ ObraTrack360</h3>
 
-**Barber Control:** aplicación de gestión operativa, registros y comisiones.
+Aplicación empresarial de gestión para el sector de la construcción.
+
+<b>PostgreSQL · SQL · Supabase</b>
+
+<p>
+<sub>Proyecto colaborativo con cliente piloto</sub>
+</p>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+<h3>🛒 Rehabex</h3>
+
+E-commerce desarrollado para un cliente real.
+
+<b>React · TypeScript · PostgreSQL</b>
+
+<p>
+<a href="https://github.com/mkgz29/rehabex">
+Ver repositorio →
+</a>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>📈 Barber Control</h3>
+
+Aplicación de gestión operativa y comisiones.
+
+<b>React · Supabase · PostgreSQL</b>
+
+<p>
+<a href="https://github.com/mkgz29/barber-control-app">
+Ver repositorio →
+</a>
+</p>
+
+</td>
+</tr>
+
+</table>
 
 ---
 
@@ -96,14 +147,14 @@ Dashboard de análisis físico y financiero de obras, desarrollado como proyecto
 
 <p align="center">
   <img
-    src="https://www.gitskins.com/api/section/city?username=mkgz29&theme=aurora"
+    src="https://www.gitskins.com/api/section/city?username=mkgz29&theme=satan"
     width="100%"
-    alt="Miguel Gomez Contribution City"
+    alt="Miguel Gomez 3D Contribution City"
   />
 </p>
 
 <p align="center">
-  <sub>My GitHub contribution activity</sub>
+  <sub>Every building represents a day of contributions.</sub>
 </p>
 
 ---
@@ -112,7 +163,7 @@ Dashboard de análisis físico y financiero de obras, desarrollado como proyecto
 
 <p align="center">
   <img
-    src="https://www.gitskins.com/api/section/stats?username=mkgz29&theme=aurora"
+    src="https://www.gitskins.com/api/section/stats?username=mkgz29&theme=satan"
     width="100%"
     alt="Miguel Gomez GitHub Statistics"
   />
@@ -120,48 +171,52 @@ Dashboard de análisis físico y financiero de obras, desarrollado como proyecto
 
 ---
 
-## 🚀 Landmarks
+## 🌋 Landmarks
 
 <p align="center">
   <img
-    src="https://www.gitskins.com/api/section/projects?username=mkgz29&theme=aurora"
+    src="https://www.gitskins.com/api/section/projects?username=mkgz29&theme=satan"
     width="100%"
-    alt="Miguel Gomez Featured Repositories"
+    alt="Miguel Gomez Public Repositories"
   />
-</p>
-
-<p align="center">
-  <a href="https://github.com/mkgz29/rehabex">Rehabex</a>
-  ·
-  <a href="https://github.com/mkgz29/barber-control-app">Barber Control</a>
-  ·
-  <a href="https://github.com/mkgz29/RollingCode-Music">RollingCode Music</a>
 </p>
 
 ---
 
 ## 🎓 Education
 
-**Data Analytics** — CoderHouse | Finalizado, 2026
+**📊 Data Analytics** — CoderHouse | Finalizado, 2026
 
-**Power BI Desktop for Business Intelligence** — Maven Analytics | En progreso
+**📈 Power BI Desktop for Business Intelligence** — Maven Analytics | En progreso
 
-**Desarrollo Web y JavaScript** — CoderHouse
+**💻 Desarrollo Web y JavaScript** — CoderHouse
 
-**Desarrollo Full Stack** — Rolling Code School
+**💻 Desarrollo Full Stack** — Rolling Code School
 
 ---
 
-<h3 align="center">📬 Let's Connect</h3>
+## 📬 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/miguel-gomez-377ab8381/">LinkedIn</a>
-  ·
-  <a href="mailto:moge22alternativa@gmail.com">Email</a>
-  ·
-  <a href="https://github.com/mkgz29">GitHub</a>
+
+<a href="https://www.linkedin.com/in/miguel-gomez-377ab8381/">
+  <img src="https://img.shields.io/badge/LinkedIn-FF4500?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:moge22alternativa@gmail.com">
+  <img src="https://img.shields.io/badge/Email-FF4500?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/mkgz29">
+  <img src="https://img.shields.io/badge/GitHub-1A0000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
 </p>
 
 <p align="center">
-  <b>Data Analytics • Business Intelligence • Software Development</b>
+  <b>Data Analytics · Business Intelligence · Software Development</b>
+</p>
+
+<p align="center">
+  <sub>GitHub Profile powered by GitSkins</sub>
 </p>
