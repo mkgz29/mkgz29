@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-  📍 Tucumán, Argentina
+  📍 Tucuman, Argentina
 </p>
 
 <p align="center">
