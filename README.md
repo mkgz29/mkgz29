@@ -1,21 +1,21 @@
-<!-- PERFIL PROFESIONAL -->
+<!-- HERO - GITSKINS AURORA -->
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/hero?username=mkgz29&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F214380766%3Fv%3D4" width="100%" alt="Miguel Gomez - GitHub Profile" />
+  <img
+    src="https://www.gitskins.com/api/section/hero?username=mkgz29&theme=aurora"
+    width="100%"
+    alt="Miguel Gomez GitHub Profile"
+  />
 </p>
 
-<h1 align="center">Ramón Miguel Jesús Gómez</h1>
+<h1 align="center">Miguel Gómez</h1>
 
 <h3 align="center">
-  Data Analyst Junior | Power BI | SQL | Business Intelligence
+  Data Analyst Junior | Power BI · SQL · Business Intelligence
 </h3>
 
 <p align="center">
-  <b>Data Analytics • Business Intelligence • Software Development</b>
-</p>
-
-<p align="center">
-  📍 San Miguel de Tucumán, Argentina
+  📍 Tucumán, Argentina
 </p>
 
 <p align="center">
@@ -29,276 +29,161 @@
 
 ---
 
-<h2>📊 Sobre mí | About Me</h2>
+<h2>👨‍💻 Sobre mí</h2>
 
-Soy un profesional en formación continua, orientado al
-<b>análisis de datos y Business Intelligence</b>.
+Desarrollador de software con formación finalizada en
+**Data Analytics (CoderHouse, 2026)**.
 
-Finalicé la formación de <b>Data Analytics en CoderHouse (2026)</b>
-y desarrollé proyectos aplicando Power BI, Power Query,
-DAX, SQL y modelado de datos.
+Me especializo en el aprendizaje y aplicación de
+**Power BI, SQL, DAX y modelado de datos**, combinando
+herramientas de Business Intelligence con experiencia
+en desarrollo de aplicaciones empresariales.
 
-Además, cuento con experiencia desarrollando aplicaciones
-empresariales, trabajando con PostgreSQL, Supabase,
-JavaScript y TypeScript.
-
-Mi objetivo es combinar mis conocimientos de programación
-y análisis de información para transformar datos en
-indicadores útiles para la toma de decisiones.
-
-<b>🎯 Actualmente busco oportunidades como Data Analyst Junior,
-BI Analyst Junior o Reporting Analyst Junior.</b>
+🎯 **Buscando oportunidades como Data Analyst Junior / BI Analyst Junior.**
 
 ---
 
-<h2>🧠 Data Analytics & Business Intelligence</h2>
+<h2>🛠️ Tecnologías</h2>
+
+<h3>📊 Data Analytics & BI</h3>
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/Power_BI-Business_Intelligence-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/SQL-Data_Analysis-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/PostgreSQL-Database-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Power_Query-Data_Transformation-217346?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/DAX-Data_Modeling-F2C811?style=for-the-badge&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/Excel-Data_Processing-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power_Query-217346?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
 </p>
 
-<h3>Competencias principales</h3>
+<h3>💻 Software Development</h3>
 
-- 📊 Desarrollo de dashboards interactivos con Power BI.
-- 🧮 Creación de medidas e indicadores mediante DAX.
-- 🗄️ Consultas SQL y manejo de bases de datos relacionales.
-- 🔄 Transformación y limpieza de datos con Power Query.
-- 📈 Definición y análisis de indicadores KPI.
-- 🧩 Modelado de datos y relaciones entre tablas.
-- 🔍 Validación e interpretación de información.
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+</p>
 
 ---
 
-<h2>🏗️ Featured Data Analytics Project</h2>
-
-<h3>📊 ObraTrack — Dashboard de Control de Obras</h3>
-
-<p>
-<b>Power BI · Power Query · DAX · Excel</b>
-</p>
-
-Proyecto académico desarrollado durante mi formación
-en Data Analytics de CoderHouse.
-
-El objetivo fue construir un dashboard de seguimiento
-físico y financiero de proyectos de construcción.
-
-El tablero integra información de presupuestos,
-avance planificado, avance real y ejecución financiera.
-
-<h3>📈 Indicadores del proyecto</h3>
+<h2>🚀 Proyectos destacados</h2>
 
 <table width="100%">
+
 <tr>
-<td align="center" width="25%">
-  <h2>15</h2>
-  <sub>Obras analizadas</sub>
-</td>
-<td align="center" width="25%">
-  <h2>19</h2>
-  <sub>Medidas DAX</sub>
-</td>
-<td align="center" width="25%">
-  <h2>5</h2>
-  <sub>Tablas del modelo</sub>
-</td>
-<td align="center" width="25%">
-  <h2>4</h2>
-  <sub>Páginas del dashboard</sub>
-</td>
-</tr>
-</table>
 
-<h3>🔍 Principales hallazgos</h3>
+<td width="50%" valign="top">
 
-| Indicador | Resultado |
-|---|---:|
-| Avance planificado global | 61,4 % |
-| Avance real global | 44,4 % |
-| Desvío físico global | -17,0 puntos porcentuales |
-| Obras identificadas con atraso | 8 de 15 |
-| Ejecución financiera | 45,7 % |
+<h3>📊 ObraTrack | Power BI</h3>
 
-<b>Nota:</b> Proyecto académico desarrollado con datos simulados.
+Dashboard de análisis físico y financiero de obras.
 
-<h3>⚙️ Implementación técnica</h3>
-
-- Integración de información desde Excel.
-- Limpieza y transformación con Power Query.
-- Modelado de tablas de hechos y dimensiones.
-- Creación de tabla calendario.
-- Desarrollo de 19 medidas DAX.
-- Indicadores ponderados por presupuesto.
-- Comparación de ejecución física y financiera.
-- Visualizaciones interactivas y análisis individual por obra.
+<b>Power BI · DAX · Power Query</b>
 
 <p>
-<b>📌 Próximamente:</b> repositorio público con capturas,
-modelo de datos, documentación y principales medidas DAX.
+15 obras simuladas · 19 medidas DAX · 5 tablas
 </p>
 
----
+<sub>Proyecto académico · Portfolio público en preparación</sub>
 
-<h2>💾 Software Engineering & Data Systems</h2>
+</td>
 
-<h3>🏗️ ObraTrack360 — Enterprise Management Platform</h3>
+<td width="50%" valign="top">
 
-<b>PostgreSQL · Supabase · SQL · TypeScript · Node.js</b>
+<h3>🏗️ ObraTrack360</h3>
 
-Aplicación empresarial desarrollada colaborativamente
-para digitalizar procesos de gestión en empresas constructoras.
+Aplicación empresarial para la gestión de procesos en empresas constructoras.
 
-<b>Funcionalidades en las que participé:</b>
+<b>PostgreSQL · SQL · Supabase</b>
 
-- Importación y procesamiento de planillas Excel.
-- Validación e integridad de registros.
-- Gestión de asistencia y jornales.
-- Persistencia de información en PostgreSQL.
-- Consultas SQL y operaciones RPC.
-- Gestión de roles y permisos.
-- Almacenamiento histórico de información.
+<p>
+Proyecto colaborativo con cliente piloto.
+</p>
 
-Proyecto colaborativo con cliente piloto real.
+</td>
 
----
+</tr>
 
-<h3>🛒 Rehabex — E-commerce Platform</h3>
+<tr>
 
-<b>React · TypeScript · PostgreSQL · Supabase</b>
+<td width="50%" valign="top">
 
-Aplicación comercial desarrollada para un cliente real
-del sector de fisioterapia.
+<h3>🛒 Rehabex</h3>
 
-Incluye:
+E-commerce desarrollado para un cliente real.
 
-- Gestión de productos.
-- Administración de pedidos.
-- Bases de datos relacionales.
-- Autenticación y permisos.
-- Validación de operaciones.
-- Integración de pagos mediante Mercado Pago.
+<b>React · TypeScript · PostgreSQL</b>
 
 <p>
 <a href="https://github.com/mkgz29/rehabex">
-  <img src="https://img.shields.io/badge/Ver_repositorio-Rehabex-00897B?style=for-the-badge&logo=github&logoColor=white"/>
+Ver repositorio →
 </a>
 </p>
 
----
+</td>
 
-<h3>📈 Barber Control — Operational Management</h3>
+<td width="50%" valign="top">
+
+<h3>📈 Barber Control</h3>
+
+Aplicación de gestión operativa y registro de comisiones.
 
 <b>React · Supabase · PostgreSQL</b>
 
-Aplicación para registrar operaciones y gestionar
-información de barberías.
-
-Funcionalidades:
-
-- Registro diario de cortes.
-- Resúmenes semanales y mensuales.
-- Gestión de comisiones.
-- Panel de administración.
-- Control de usuarios y permisos.
-
 <p>
 <a href="https://github.com/mkgz29/barber-control-app">
-  <img src="https://img.shields.io/badge/Ver_repositorio-Barber_Control-00897B?style=for-the-badge&logo=github&logoColor=white"/>
+Ver repositorio →
 </a>
 </p>
 
+</td>
+
+</tr>
+
+</table>
+
 ---
 
-<h2>💻 Development Toolkit</h2>
+<h2>🎓 Formación</h2>
+
+📊 **Data Analytics** — CoderHouse | Finalizado, 2026
+
+📈 **Power BI Desktop for Business Intelligence** — Maven Analytics | En progreso
+
+💻 **Desarrollo Web y JavaScript** — CoderHouse
+
+💻 **Desarrollo Full Stack** — Rolling Code School
+
+---
+
+<h2>🏙️ Contribution City</h2>
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/TypeScript-Code-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Node.js-Backend-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/React-Frontend-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/Supabase-Backend-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Git-Version_Control-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-
-</p>
-
----
-
-<h2>🎓 Education & Continuous Learning</h2>
-
-| Formación | Institución | Estado |
-|---|---|---|
-| Data Analytics | CoderHouse | ✅ Finalizado, 2026 |
-| Power BI Desktop for Business Intelligence | Maven Analytics / Udemy | 📚 En progreso |
-| Desarrollo Web | CoderHouse | ✅ Aprobado |
-| JavaScript | CoderHouse | ✅ Aprobado |
-| Desarrollo Full Stack | Rolling Code School | Formación realizada |
-
----
-
-<h2>🏙️ My Contribution City</h2>
-
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/city?username=mkgz29&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F214380766%3Fv%3D4" width="100%" alt="Miguel Gomez GitHub Contribution City"/>
+  <img
+    src="https://www.gitskins.com/api/section/city?username=mkgz29&theme=aurora"
+    width="100%"
+    alt="Miguel Gomez Contribution City"
+  />
 </p>
 
 <p align="center">
-  <sub>Each building represents a day of contributions on GitHub.</sub>
+  <sub>My GitHub contribution activity</sub>
 </p>
 
 ---
 
-<h2>📈 GitHub Activity</h2>
+<h3 align="center">📬 Conectemos</h3>
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/stats?username=mkgz29&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F214380766%3Fv%3D4" width="100%" alt="Miguel Gomez GitHub statistics"/>
-</p>
-
----
-
-<h2>🌍 GitHub Projects</h2>
-
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/projects?username=mkgz29&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F214380766%3Fv%3D4" width="100%" alt="Miguel Gomez GitHub repositories"/>
-</p>
-
----
-
-<h2>📬 Contact</h2>
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/miguel-gomez-377ab8381/">
-  <img src="https://img.shields.io/badge/LinkedIn-Miguel_Gomez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:moge22alternativa@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
+  <a href="https://www.linkedin.com/in/miguel-gomez-377ab8381/">LinkedIn</a>
+  ·
+  <a href="mailto:moge22alternativa@gmail.com">Email</a>
+  ·
+  <a href="https://github.com/mkgz29">GitHub</a>
 </p>
 
 <p align="center">
-  <b>Open to Data Analyst Junior & Business Intelligence opportunities</b>
-</p>
-
-<p align="center">
-  <sub>Made with GitHub README and GitSkins Aurora.</sub>
+  <b>Open to Data Analyst Junior & BI opportunities 🚀</b>
 </p>
