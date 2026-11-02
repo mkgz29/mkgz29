@@ -1,18 +1,22 @@
-<!-- HERO - GITSKINS AURORA -->
+<!-- ====================================== -->
+<!-- MIGUEL GOMEZ | DATA ANALYST PORTFOLIO -->
+<!-- ====================================== -->
 
 <p align="center">
   <img
     src="https://www.gitskins.com/api/section/hero?username=mkgz29&theme=aurora"
     width="100%"
-    alt="Miguel Gomez GitHub Profile"
+    alt="Miguel Gomez - Data & Software Portfolio"
   />
 </p>
 
-<h1 align="center">Miguel Gómez</h1>
-
 <h3 align="center">
-  Data Analyst Junior | Power BI · SQL · Business Intelligence
+  📊 Data Analyst Junior | Power BI · SQL · Business Intelligence
 </h3>
+
+<p align="center">
+  Data Analytics & Software Development
+</p>
 
 <p align="center">
   📍 Tucumán, Argentina
@@ -20,43 +24,39 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/miguel-gomez-377ab8381/">
-    <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:moge22alternativa@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contacto-00897B?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-00897B?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-<h2>👨‍💻 Sobre mí</h2>
+## 👨‍💻 Sobre mí
 
-Desarrollador de software con formación finalizada en
-**Data Analytics (CoderHouse, 2026)**.
+Desarrollador de software con formación finalizada en **Data Analytics — CoderHouse (2026)**.
 
-Me especializo en el aprendizaje y aplicación de
-**Power BI, SQL, DAX y modelado de datos**, combinando
-herramientas de Business Intelligence con experiencia
-en desarrollo de aplicaciones empresariales.
+Trabajo con **Power BI, SQL, DAX y PostgreSQL**, combinando el análisis de datos con experiencia en aplicaciones empresariales.
 
-🎯 **Buscando oportunidades como Data Analyst Junior / BI Analyst Junior.**
+🎯 **Open to Data Analyst Junior & BI opportunities.**
 
 ---
 
-<h2>🛠️ Tecnologías</h2>
+## 🧠 Technical Stack
 
-<h3>📊 Data Analytics & BI</h3>
+### 📊 Data Analytics & BI
 
 <p align="center">
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power_Query-217346?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Power_Query-217346?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
 </p>
 
-<h3>💻 Software Development</h3>
+### 💻 Software Development
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -68,97 +68,31 @@ en desarrollo de aplicaciones empresariales.
 
 ---
 
-<h2>🚀 Proyectos destacados</h2>
+## 📊 Featured Data Project
 
-<table width="100%">
+### ObraTrack — Power BI Dashboard
 
-<tr>
+**Power BI · DAX · Power Query · Data Modeling**
 
-<td width="50%" valign="top">
+Dashboard de análisis físico y financiero de obras, desarrollado como proyecto académico de Data Analytics.
 
-<h3>📊 ObraTrack | Power BI</h3>
+**15 obras simuladas · 19 medidas DAX · 5 tablas · 4 páginas**
 
-Dashboard de análisis físico y financiero de obras.
-
-<b>Power BI · DAX · Power Query</b>
-
-<p>
-15 obras simuladas · 19 medidas DAX · 5 tablas
-</p>
-
-<sub>Proyecto académico · Portfolio público en preparación</sub>
-
-</td>
-
-<td width="50%" valign="top">
-
-<h3>🏗️ ObraTrack360</h3>
-
-Aplicación empresarial para la gestión de procesos en empresas constructoras.
-
-<b>PostgreSQL · SQL · Supabase</b>
-
-<p>
-Proyecto colaborativo con cliente piloto.
-</p>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-<h3>🛒 Rehabex</h3>
-
-E-commerce desarrollado para un cliente real.
-
-<b>React · TypeScript · PostgreSQL</b>
-
-<p>
-<a href="https://github.com/mkgz29/rehabex">
-Ver repositorio →
-</a>
-</p>
-
-</td>
-
-<td width="50%" valign="top">
-
-<h3>📈 Barber Control</h3>
-
-Aplicación de gestión operativa y registro de comisiones.
-
-<b>React · Supabase · PostgreSQL</b>
-
-<p>
-<a href="https://github.com/mkgz29/barber-control-app">
-Ver repositorio →
-</a>
-</p>
-
-</td>
-
-</tr>
-
-</table>
+📌 Portfolio público en preparación.
 
 ---
 
-<h2>🎓 Formación</h2>
+## 🏗️ Business Software
 
-📊 **Data Analytics** — CoderHouse | Finalizado, 2026
+**ObraTrack360:** aplicación empresarial de gestión de obras con PostgreSQL, SQL y Supabase. Proyecto colaborativo con cliente piloto.
 
-📈 **Power BI Desktop for Business Intelligence** — Maven Analytics | En progreso
+**Rehabex:** e-commerce desarrollado para un cliente real.
 
-💻 **Desarrollo Web y JavaScript** — CoderHouse
-
-💻 **Desarrollo Full Stack** — Rolling Code School
+**Barber Control:** aplicación de gestión operativa, registros y comisiones.
 
 ---
 
-<h2>🏙️ Contribution City</h2>
+## 🏙️ Contribution City
 
 <p align="center">
   <img
@@ -174,7 +108,51 @@ Ver repositorio →
 
 ---
 
-<h3 align="center">📬 Conectemos</h3>
+## 📈 Population
+
+<p align="center">
+  <img
+    src="https://www.gitskins.com/api/section/stats?username=mkgz29&theme=aurora"
+    width="100%"
+    alt="Miguel Gomez GitHub Statistics"
+  />
+</p>
+
+---
+
+## 🚀 Landmarks
+
+<p align="center">
+  <img
+    src="https://www.gitskins.com/api/section/projects?username=mkgz29&theme=aurora"
+    width="100%"
+    alt="Miguel Gomez Featured Repositories"
+  />
+</p>
+
+<p align="center">
+  <a href="https://github.com/mkgz29/rehabex">Rehabex</a>
+  ·
+  <a href="https://github.com/mkgz29/barber-control-app">Barber Control</a>
+  ·
+  <a href="https://github.com/mkgz29/RollingCode-Music">RollingCode Music</a>
+</p>
+
+---
+
+## 🎓 Education
+
+**Data Analytics** — CoderHouse | Finalizado, 2026
+
+**Power BI Desktop for Business Intelligence** — Maven Analytics | En progreso
+
+**Desarrollo Web y JavaScript** — CoderHouse
+
+**Desarrollo Full Stack** — Rolling Code School
+
+---
+
+<h3 align="center">📬 Let's Connect</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/miguel-gomez-377ab8381/">LinkedIn</a>
@@ -185,5 +163,5 @@ Ver repositorio →
 </p>
 
 <p align="center">
-  <b>Open to Data Analyst Junior & BI opportunities 🚀</b>
+  <b>Data Analytics • Business Intelligence • Software Development</b>
 </p>
